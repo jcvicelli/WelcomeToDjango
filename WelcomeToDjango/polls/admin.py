@@ -10,3 +10,10 @@ class QuestionAdmin(admin.ModelAdmin):
 
 admin.site.register(Question, QuestionAdmin)
 admin.site.register(Choice)
+
+class AnotherClass():
+    if(a == a):
+        abcd
+
+    another thing
+        
